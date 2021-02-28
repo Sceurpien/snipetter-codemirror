@@ -1,7 +1,7 @@
 {
-  "name": "react-codemirror2",
-  "version": "7.2.1",
-  "description": "a tiny react codemirror component wrapper",
+  "name": "snipetter-codemirror",
+  "version": "1.0.0",
+  "description": "A tiny react codemirror component wrapper",
   "main": "index.js",
   "typings": "index.d.ts",
   "scripts": {
@@ -35,14 +35,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scniro/react-codemirror2.git"
+    "url": "githttps://github.com/Sceurpien/snipetter-codemirror.git"
   },
   "author": "scniro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scniro/react-codemirror2/issues"
+    "url": "https://github.com/Sceurpien/snipetter-codemirror/issues"
   },
-  "homepage": "https://github.com/scniro/react-codemirror2#readme",
+  "homepage": "https://github.com/Sceurpien/snipetter-codemirror/#readme",
   "keywords": [
     "react",
     "react-codemirror",
