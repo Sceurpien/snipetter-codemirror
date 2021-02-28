@@ -1,5 +1,5 @@
 ## Install
 
 ```bash
-npm install react-codemirror2 codemirror --save
+npm install snipetter-codemirror codemirror --save
 ```
